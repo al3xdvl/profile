@@ -121,6 +121,7 @@ table {
   top: 0;
   bottom: 0;
   background: #373333;
+  box-shadow: 1px 2px 5px black;
 
 }
 #page-content {
