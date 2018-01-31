@@ -86,7 +86,7 @@ table {
 }
 
 .button {
-  background: #D0B6EA;
+  background: #43005A;
   width: 200px;
   height: 50px;
   background-size: 50px 100px;
@@ -99,7 +99,7 @@ table {
 }
 
 .button:hover {
-  background: #FFC7F2;
+  background: #780071;
 }
 
 .list {
